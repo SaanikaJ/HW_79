@@ -1,0 +1,34 @@
+body{
+    background-image:url("https://cdn.pixabay.com/photo/2020/03/21/02/26/pizza-4952508__340.jpg");
+    background-size: 100%;
+    text-align:fixed; 
+}
+
+#myNavbar {
+    margin-left:30px; 
+    margin-top:30px; 
+    color:whitesmoke;
+}
+
+
+.topnav{ 
+    background-image:url(https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg);
+    color:white;
+    font-size:x-large;
+    margin-left:40px;
+    z-index: 10;
+    position: fixed;
+}
+
+.topnav:hover{
+    color:white;
+}
+
+.boohoo{
+    margin-top:50px;
+    background-image:url(https://images.creativemarket.com/0.1.0/ps/1395025/300/200/m2/fpc/wm0/a8ebw4nbyaptur5qumqfdzsnj4c6pd9w7honfrdssv7pu2a1pdog9i6ddbjlxjrx-.jpg?1466765775&s=aca975ea6bb3e4e7430e7b484ba467b1);
+}
+
+input {
+    margin:10px;
+}
